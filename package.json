@@ -81,11 +81,12 @@
   "peerDependencies": {
     "react": "^15.5.4",
     "react-dom": "^15.6.2",
+    "react-jsonschema-form": "^1.0.3",
     "uswds": "^1.6.3"
   },
   "dependencies": {
+    "@department-of-veterans-affairs/react-jsonschema-form": "npm:react-jsonschema-form",
     "classnames": "^2.2.5",
-    "@department-of-veterans-affairs/react-jsonschema-form": "^1.0.0",
     "downshift": "^1.22.5",
     "fast-levenshtein": "^2.0.6",
     "history": "3",

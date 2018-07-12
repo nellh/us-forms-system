@@ -95,9 +95,10 @@
 
 "@department-of-veterans-affairs/react-jsonschema-form@npm:react-jsonschema-form":
   version "1.0.3"
-  resolved "https://registry.yarnpkg.com/react-jsonschema-form/-/react-jsonschema-form-1.0.3.tgz#83bf8c5330651a949d8b0ac644fb92c6665348b5"
+  resolved "https://github.com/nellh/react-jsonschema-form.git#bc7e0e809dda6801f3b5623fc81deb4ba017e0a2"
   dependencies:
     ajv "^5.2.3"
+    growl "^1.10.5"
     lodash.topath "^4.5.2"
     prop-types "^15.5.8"
     setimmediate "^1.0.5"
